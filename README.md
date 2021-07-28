@@ -1,7 +1,7 @@
 ### Hi there, it's me Munny Reol
 
 ## 📈 my github stats
-![Munny Reol's GitHub stats](https://github-readme-stats.vercel.app/api?username=munnyreol&show_icons=true&theme=chartreuse-dark)
+![Munny Reol's GitHub stats](https://github-readme-stats.vercel.app/api?username=munnyreol&show_icons=true&theme=chartreuse-dark&text_color=B2FDD4)
 
 
 <!--
