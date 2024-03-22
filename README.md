@@ -1,4 +1,12 @@
 ### Hi there, it's me Munny Reol
+### Not fancy design
+### I code all day
+### I mostly code in private repo that's why it's seems like I don't code.
+### You can say like, I am code addict.
+### Coding gives me highest dopamine. more than gaming or anything ...  except Mathematics and Thinking
+### I Love JavaScript ❤️
+### I do JavaScript, NodeJs, Express Js, Next Js, MongoDB ... and many more. linux/ubuntu, nginx, redis, I don't remember others but many more
+<!--
 
 ## 📈 my github stats
 ![Munny Reol's GitHub stats](https://github-readme-stats.vercel.app/api?username=munnyreol&show_icons=true&theme=chartreuse-dark&text_color=B2FDD4)
@@ -8,7 +16,6 @@
 
 
 
-<!--
 **MunnyReol/munnyreol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
